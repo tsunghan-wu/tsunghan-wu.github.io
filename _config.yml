@@ -85,7 +85,7 @@ author:
   bio              : "Computer Science M.S. at National Taiwan University, dedicating to computer vision and machine learning"
   location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=ykuVSuEAAAAJ&hl=zh-TW&authuser=1"
   email            : "tsunghan@cmlab.csie.ntu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
