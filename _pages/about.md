@@ -15,3 +15,12 @@ My research interest broadly includes the deep learning technique for computer v
 Previously, I was an undergraduate student in Computer Science at National Taiwan University (NTU). I received the NTU Presidential Award for the top 5% students for three times in 2016-2020, and Foxconn Technology Award in 2021. Here is my Curriculum Vitae.
 
 Email: tsunghan [AT] cmlab.edu.edu.tw
+
+Recent News
+=====
+
+- **Test Bold**
+
+Academic Service
+=====
+Conference Reviewer: ICMR 2021, CVPR 2022, ECCV 2022
