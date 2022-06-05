@@ -5,5 +5,5 @@ permalink: /publication/2022-monodtr
 date: 2022-03-21
 venue: 'Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://arxiv.org/abs/2203.10981'
-citation: 'Kuan-Chih Huang, <b>Tsung-Han Wu</b>, Hung-Ting Su, and Winston H. Hsu. (<i>CVPR 2022</i>)'
+citation: 'Kuan-Chih Huang, <b>Tsung-Han Wu</b>, Hung-Ting Su, and Winston H. Hsu. <p style="color:red"><b><i>CVPR 2022</i></b></p>'
 ---
