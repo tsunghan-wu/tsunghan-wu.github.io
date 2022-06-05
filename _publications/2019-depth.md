@@ -6,5 +6,6 @@ date: 2019-08-22
 venue: 'International Conference of Computer Vision Workshop (ICCVW)'
 paperurl: 'https://arxiv.org/abs/1908.08344'
 github: 'https://github.com/tsunghan-wu/Depth-Completion'
-citation: 'Yu-Kai Huang*, <b>Tsung-Han Wu*</b>, Yueh-Cheng Liu, and Winston H. Hsu. <br> <b><i>ICVW(RLQ) 2019</i></b>'
+citation: 'Yu-Kai Huang*, <b>Tsung-Han Wu*</b>, Yueh-Cheng Liu, and Winston H. Hsu.'
+conference: '<i style="color:blue">ICCVW(RLQ) 2019</i>'
 ---
