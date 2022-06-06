@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome! I'm a M.S. student (Sep 2020 - ) in Computer Science at National Taiwan University (NTU), supervised by Prof. [Winston H. Hsu](https://winstonhsu.info/). Currently, I plan to apply for a Ph.D student position in 2022 Fall.
 
-My research interest broadly includes the deep learning technique for computer vision and 3D scene understanding. Specifically, my research focuses on active learning, depth estimation/completion, and 3D point cloud learning. If you are interested in my research or want to discuss with me, feel free to [email me](tsunghan@cmlab.csie.ntu.edu.tw) and see my [publications](https://tsunghan-wu.github.io/publications/)!
+My research interest broadly includes the deep learning technique for computer vision and 3D scene understanding. Specifically, my research focuses on **active learning**, **depth estimation/completion**, and **3D point cloud learning**. Here is my recent [publications](https://tsunghan-wu.github.io/publications/). If you are interested in my research or want to discuss with me, feel free to [email me](tsunghan@cmlab.csie.ntu.edu.tw)!
 
-Previously, I was an undergraduate student in Computer Science at National Taiwan University (NTU). I received the NTU Dean's List Award for the top 5% students for three times in 2016-2020, and [Foxconn Technology Award](https://www.facebook.com/foxconnscholarship/photos/a.316005262172506/1316061712166851/) in 2021. Here is my [Curriculum Vitae](https://tsunghan-wu.github.io/cv.pdf).
+Previously, I was an undergraduate student in Computer Science at National Taiwan University (NTU). I received the NTU Dean's List Award for the top 5% students for three times in 2016-2020, and [Foxconn Technology Award](https://www.facebook.com/foxconnscholarship/photos/a.316005262172506/1316061712166851/) in 2021.
 
-Email: tsunghan [AT] cmlab.edu.edu.tw
+Email: tsunghan [AT] cmlab.ntu.edu.tw
 
 Recent News
 =====
