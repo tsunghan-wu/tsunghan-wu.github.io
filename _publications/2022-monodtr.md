@@ -7,4 +7,5 @@ venue: 'Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://arxiv.org/abs/2203.10981'
 citation: 'Kuan-Chih Huang, <b>Tsung-Han Wu</b>, Hung-Ting Su, and Winston H. Hsu.'
 conference: '<i style="color:red">CVPR 2022</i>'
+github: 'https://github.com/kuanchihhuang/MonoDTR'
 ---
