@@ -27,6 +27,6 @@ Email: tsunghan [at] cmlab [dot] ntu [dot] edu [dot] tw
 - (07/2021) Our paper ["ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation"](https://arxiv.org/abs/2107.11769) is accepted by ICCV 2021.
 - (03/2021) Our paper ["S3: Learnable sparse signal superdensity for guided depth estimation"](https://arxiv.org/abs/2103.02396) is accepted by CVPR 2021.
 
-Academic Service
-=====
+## Academic Service
+
 Conference Reviewer: ICMR 2021, CVPR 2022, ECCV 2022, BMVC 2022
