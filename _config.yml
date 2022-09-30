@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tsung-Han Wu (吳宗翰)"
+  name             : "Tsung-Han Wu"
   avatar           : "profile.jpg"
   bio              : "Research assistant at National Taiwan University, dedicating to computer vision and machine learning"
   location         : "Taipei, Taiwan"

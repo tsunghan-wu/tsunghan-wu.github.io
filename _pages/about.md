@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Tsung-Han Wu (吳宗翰)"
+excerpt: "Tsung-Han Wu (吳宗翰)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About Me
+=====
 
 Hi, my name is Tsung-Han (Patrick) Wu. I'm a research assistant (Aug. 2022 - ) in Computer Science at National Taiwan University (NTU), collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). Currently, I plan to apply for a Ph.D student position (2023 Fall).
 
