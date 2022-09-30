@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tsung-Han Wu"
+title                    : "Tsung-Han (Patrick) Wu"
 title_separator          : "-"
-name                     : &name "Tsung-Han Wu"
+name                     : &name "Tsung-Han (Patrick) Wu"
 description              : &description "Research assistant, Dept. of Computer Science and Information Engineering, National Taiwan University"
 url                      : https://tsunghan-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

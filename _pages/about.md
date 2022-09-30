@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Tsung-Han Wu (吳宗翰). I'm a research assistant (Aug. 2022 - ) in Computer Science at National Taiwan University (NTU), collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). Currently, I plan to apply for a Ph.D student position (2023 Fall).
+Hi, my name is Tsung-Han (Patrick) Wu (吳宗翰 in Chinese). I'm a research assistant (Aug. 2022 - ) in Computer Science at National Taiwan University (NTU), collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). Currently, I plan to apply for a Ph.D student position (2023 Fall).
 
 My research interest broadly includes the intersection of machine learning and computer vision. Specifically, my research focuses on **active learning**, **adversarial robustness**, **depth estimation/completion**, and **3D vision**. Here is my recent [publications](https://tsunghan-wu.github.io/publications/). If you are interested in my research or want to discuss with me, feel free to [email me](tsunghan@cmlab.csie.ntu.edu.tw)!
 
