@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Tsung-Han Wu (吳宗翰)"
-excerpt: "Tsung-Han Wu (吳宗翰)"
+title: "Tsung-Han (Patrick) Wu - 吳宗翰"
+excerpt: "Tsung-Han (Patrick) Wu - 吳宗翰"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-=====
+## About Me
 
 Hi, my name is Tsung-Han (Patrick) Wu. I'm a research assistant (Aug. 2022 - ) in Computer Science at National Taiwan University (NTU), collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). Currently, I plan to apply for a Ph.D student position (2023 Fall).
 
@@ -19,8 +18,7 @@ Previously, I received my MS and BS degree in Computer Science at National Taiwa
 
 Email: tsunghan [at] cmlab [dot] ntu [dot] edu [dot] tw
 
-Recent News
-=====
+## Recent News
 
 - (08/2022) I won the 2022 IPPR Outstanding MS Thesis Award **(Top 3 Computer Vision Master’s Thesis in Taiwan)** !
 - (07/2022) Our paper ["D2ADA: Dynamic Density-aware Active Domain Adaptation for Semantic Segmentation"](https://arxiv.org/abs/2202.06484) is accepted by ECCV 2022.
