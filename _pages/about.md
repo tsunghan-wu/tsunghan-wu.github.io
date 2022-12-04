@@ -10,9 +10,9 @@ redirect_from:
 
 ## About Me
 
-Hi, my name is Tsung-Han (Patrick) Wu. I'm a research assistant (Aug. 2022 - ) in Computer Science at National Taiwan University (NTU), collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). Currently, I plan to apply for a Ph.D student position (2023 Fall).
+Hi, my name is Tsung-Han (Patrick) Wu. I'm a research assistant (Aug. 2022 - ) in Computer Science at National Taiwan University (NTU), collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). I plan to apply for a Ph.D student position (2023 Fall).
 
-I research on ways to build cost-effective and trustworthy visual autonomous systems in our changing world, with a particular focus on **active learning**, **domain adaptation**, **adversarial robustness**, and **depth estimation**. Here are my [self-selected publications](https://tsunghan-wu.github.io/publications/).
+Currently, I research on ways to build cost-effective and trustworthy visual autonomous systems in our changing world, with a particular focus on **active learning**, **domain adaptation**, **adversarial robustness**, and **depth estimation**. Here are my [self-selected publications](https://tsunghan-wu.github.io/publications/).
 
 Previously, I received my MS and BS degree in Computer Science at National Taiwan University (NTU). I received the NTU Dean's List Award for the top 5% students for three times in 2016-2020, Foxconn Technology Award in 2021, and IPPR Outstanding MS Thesis Award in 2022.
 
@@ -30,4 +30,4 @@ Email: tsunghan [at] cmlab [dot] ntu [dot] edu [dot] tw
 
 ## Academic Service
 
-Conference Reviewer: ICMR 2021, CVPR 2022, ECCV 2022, BMVC 2022
+Conference Reviewer: ICMR 2021, CVPR 2022/2023, ECCV 2022, BMVC 2022, TMM
