@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, my name is Tsung-Han (Patrick) Wu. I'm a research assistant (Aug. 2022 - ) in Computer Science at National Taiwan University (NTU), collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). Currently, I plan to apply for a Ph.D student position (2023 Fall).
 
-My research interest broadly includes the intersection of machine learning and computer vision. I research on ways to build cost-effective and trustworthy autonomous systems in our changing world, with a particular focus on my research focuses on **active learning**, **domain adaptation**, **adversarial robustness**, and **depth estimation**. Here is my recent [publications](https://tsunghan-wu.github.io/publications/). If you are interested in my research or want to discuss with me, feel free to [email me](tsunghan@cmlab.csie.ntu.edu.tw)!
+I research on ways to build cost-effective and trustworthy visual autonomous systems in our changing world, with a particular focus on **active learning**, **domain adaptation**, **adversarial robustness**, and **depth estimation**. Here is my selected [publications](https://tsunghan-wu.github.io/publications/).
 
 Previously, I received my MS and BS degree in Computer Science at National Taiwan University (NTU). I received the NTU Dean's List Award for the top 5% students for three times in 2016-2020, Foxconn Technology Award in 2021, and IPPR Outstanding MS Thesis Award in 2022.
 
