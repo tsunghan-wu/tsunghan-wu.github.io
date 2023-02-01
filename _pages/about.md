@@ -20,6 +20,7 @@ Email: tsunghan [at] cmlab [dot] ntu [dot] edu [dot] tw
 
 ## Recent News
 
+- (01/2023) One paper is accepted by ICRA 2023.
 - (10/2022) Two papers are accepted by BMVC 2022.
 - (08/2022) I won the 2022 IPPR Outstanding MS Thesis Award **(Top 3 Computer Vision Master’s Thesis in Taiwan)** !
 - (07/2022) Our paper ["D2ADA: Dynamic Density-aware Active Domain Adaptation for Semantic Segmentation"](https://arxiv.org/abs/2202.06484) is accepted by ECCV 2022.
