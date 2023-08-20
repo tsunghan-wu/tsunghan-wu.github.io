@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tsung-Han Wu"
+title                    : "Tsung-Han (Patrick) Wu"
 title_separator          : "-"
-name                     : &name "Tsung-Han Wu"
-description              : &description "Research assistant, Dept. of Computer Science and Information Engineering, National Taiwan University"
+name                     : &name "Tsung-Han (Patrick) Wu"
+description              : &description "EECS PhD student at UC Berkeley"
 url                      : https://tsunghan-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsunghan-wu.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tsung-Han Wu"
+  name             : "Tsung-Han (patrick) Wu"
   avatar           : "profile.jpg"
-  bio              : "Research assistant at National Taiwan University, dedicating to computer vision and machine learning"
-  location         : "Taipei, Taiwan"
+  bio              : "EECS PhD student at UC Berkeley, dedicating to computer vision and machine learning"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=ykuVSuEAAAAJ&hl=zh-TW&authuser=1"
-  email            : "tsunghan@cmlab.csie.ntu.edu.tw"
+  email            : "tsunghan_wu@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
