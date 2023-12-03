@@ -1,0 +1,192 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Self-correcting LLM-controlled Diffusion Models</title>
+
+    <meta
+        content="Self-correcting LLM-controlled Diffusion Models"
+        name="description" />
+    <meta content="Self-correcting LLM-controlled Diffusion Models" property="og:title" />
+    <meta
+        content="Self-correcting LLM-controlled Diffusion Models"
+        property="og:description" />
+    <meta content="teaser.png"
+        property="og:image" />
+    <meta content="Self-correcting LLM-controlled Diffusion Models" property="twitter:title" />
+    <meta
+        content="Self-correcting LLM-controlled Diffusion Models"
+        property="twitter:description" />
+    <meta content="teaser.png"
+        property="twitter:image" />
+    <meta property="og:type" content="website" />
+    <meta content="summary_large_image" name="twitter:card" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+    <link href="style.css?v=v1" rel="stylesheet" type="text/css" /> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <div class="section">
+        <div class="container">
+            <div class="title-row">
+                <h1 class="title">Self-correcting LLM-controlled Diffusion Models</h1>
+            </div>
+            <div class="base-row author-row">
+                <div class="base-col author-col">
+                    <a href="https://tsunghan-wu.github.io/" target="_blank" class="author-text">
+                        Tsung-Han Wu*
+                    </a>
+                </div>
+                <div class="base-col author-col">
+                    <a href="https://tonylian.com" target="_blank" class="author-text">
+                        Long Lian*
+                    </a>
+                </div>
+                <div class="base-col author-col">
+                    <a href="https://people.eecs.berkeley.edu/~jegonzal/" target="_blank" class="author-text">
+                        Joseph E. Gonzalez
+                    </a>
+                </div>
+                <div class="base-col author-col">
+                    <a href="https://sites.google.com/site/boyilics/home" target="_blank" class="author-text">
+                        Boyi Li†
+                    </a>
+                </div>
+                <div class="base-col author-col">
+                    <a href="https://people.eecs.berkeley.edu/~trevor/" target="_blank" class="author-text">
+                        Trevor Darrell†
+                    </a>
+                </div>
+            </div>
+            <div class="base-row author-row">
+                <div class="base-col author-col">
+                    UC Berkeley
+                </div>
+                <div class="base-col author-col">
+                    UC Berkeley
+                </div>
+                <div class="base-col author-col">
+                    UC Berkeley
+                </div>
+                <div class="base-col author-col">
+                    UC Berkeley
+                </div>
+                <div class="base-col author-col">
+                    UC Berkeley
+                </div>
+            </div>
+            <div class="link-labels base-row">
+                <div class="base-col icon-col"><a href="https://browse.arxiv.org/pdf/2311.16090.pdf" target="_blank"
+                        class="link-block">
+                    <i class="fa fas fa-file-text main-icon" style="font-size: 75px"></i>
+                    </a></div>
+                <div class="base-col icon-col"><a href='https://huggingface.co/spaces/longlian/llm-grounded-diffusion' class="link-block">
+                    <i class="fa fa-cube main-icon" style="font-size: 75px"></i>
+                    </a></div>
+                <div class="base-col icon-col"><a href='https://github.com/tsunghan-wu/SLD' class="link-block">
+                    <i class="fa fa-github main-icon" style="font-size: 75px"></i>
+                    </a></div>
+                <div class="base-col icon-col"><a href="#citation" class="link-block">
+                    <i class="fa fa-graduation-cap main-icon" style="font-size: 75px"></i>
+                    </a></div>
+                <div class="base-col icon-col"><a href="https://llm-grounded-diffusion.github.io/" class="link-block">
+                    <i class="fa fa-link main-icon" style="font-size: 75px"></i>
+                    </a></div>
+            </div>
+            <div class="link-labels base-row">
+                <div class="base-col icon-col">
+                    <strong class="link-labels-text">Paper</strong>
+                </div>
+                <div class="base-col icon-col">
+                    <strong class="link-labels-text">Demo <br/>(Coming Soon)</strong>
+                </div>
+                <div class="base-col icon-col">
+                    <strong class="link-labels-text">Code <br/></strong>
+                </div>
+                <div class="base-col icon-col">
+                    <strong class="link-labels-text">Citation</strong>
+                </div>
+                <div class="base-col icon-col">
+                    <strong class="link-labels-text">Related Project: LMD</strong>
+                </div>
+            </div>
+            <h1 class="tldr">
+                <b>TL;DR</b>: The Self-correcting LLM-controlled Diffusion (SLD) Framework features:
+                <ol>
+                    <li><b>Self-correction:</b> Enhances generative models with LLM-integrated detectors for precise text-to-image alignment.</li>
+                    <li><b>Unified Generation and Editing:</b> Excels at both image generation and fine-grained editing.</li>
+                    <li><b>Universal Compatibility:</b> Works with ANY image generator, like DALL-E 3, requiring no extra training or data.</li>
+                </ol>
+            </h1>
+            <div class="base-row add-top-padding">
+                <a href="teaser.png">
+                    <img class="img" src="teaser.png" style="width: 90%;"/>
+                </a>
+            </div>
+            <div class="base-row add-top-padding">
+                <h1 id="abstract">Self-correcting LLM-conrolled Diffusion Models (SLD)</h1>
+                <p class="paragraph">
+                SLD enhances text-to-image alignment through an iterative self-correction process. It begins with LLM-driven object detection, and subsequently performs LLM-controlled analysis and training-free correction.
+                </p>
+                <div class="base-row add-top-padding">
+                    <a href="main_figure.jpg">
+                        <img class="img" src="main_figure.jpg" />
+                    </a>
+                </div>
+            </div>
+
+            <!-- <div class="base-row add-top-padding">
+                <h1 id="abstract">Poster</h1>
+                <div class="base-row add-top-padding">
+                    <a href="lmd_poster.png">
+                        <img class="img" src="lmd_poster.png" />
+                    </a>
+                </div>
+            </div> -->
+
+            <div class="base-row add-top-padding">
+                <h1>Visualizations: Correcting Various Generative Models</h1>
+
+                <div class="base-row add-top-padding add-bottom-padding">
+                    <img class="img" src="result1.png" />
+                </div>
+                <p class="paragraph">
+                    SLD improves text-to-image alignment in models like SDXL, LMD+, and DALL-E 3. The first row shows SLD's precision in placing a blue bicycle between a bench and palm tree, with an accurate count of palm trees and seagulls. The second row demonstrates SLD's efficacy in complex scenes, preventing object collision with training-free latent operations.
+                </p>
+                <h1>Visualizations: Complex Object-level Editing</h1>
+
+                <div class="base-row add-top-padding add-bottom-padding">
+                    <img class="img" src="result2.png" />
+                </div>
+                <p class="paragraph">
+                    SLD can handle a diverse array of image editing tasks guided by natural, human-like instructions. Its capabilities span from adjusting object counts to altering object attributes, positions, and sizes.
+                </p>
+            </div>
+
+            <div class="citation add-top-padding">
+                <h1 id="citation">Citation</h1>
+                <p> If you use this work or find it helpful, please consider citing: </p>
+                <pre id="codecell0">
+@article{wu2023self,
+  title={Self-correcting LLM-controlled Diffusion Models},
+  author={Wu, Tsung-Han and Lian, Long and Gonzalez, Joseph E and Li, Boyi and Darrell, Trevor},
+  journal={arXiv preprint arXiv:2311.16090},
+  year={2023}
+}
+
+@article{lian2023llmgrounded,
+    title={LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models}, 
+    author={Lian, Long and Li, Boyi and Yala, Adam and Darrell, Trevor},
+    journal={arXiv preprint arXiv:2305.13655},
+    year={2023}
+}
+                </pre>
+            </div>
+        </div>
+    </div>
+
+    <p class="credit">Credit: The design of this project page references the project pages of <a href="https://llm-grounded-video-diffusion.github.io/">LVD</a>, <a href="https://llm-grounded-diffusion.github.io/">LMD</a>, <a href="https://www.matthewtancik.com/nerf">NeRF</a>, <a
+            href="https://github.com/DeepMotionEditing/DeepMotionEditing.github.io">DeepMotionEditing</a>, and <a
+            href="https://www.lerf.io/">LERF</a>.</p>
+</body>
