@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, my name is Tsung-Han (Patrick) Wu. I am an EECS PhD student (Aug. 2023 - ) at UC Berkeley, focusing on Computer Vision and ML Systems. I am fortunate to be advised by [Prof. Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) affiliated with BAIR and [Prof. Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) in Sky computing Lab. Previously, I earned by MS and BS degree in Computer Science from National Taiwan University (NTU), happily collaborating with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). 
 
-My recent research lies in finding ways to build cost-effective and trustworthy visual autonomous systems in our changing world.  Feel welcome to check out my [selected publications](https://tsunghan-wu.github.io/publications/) and [CV](https://tsunghan-wu.github.io/files/cv.pdf) for more information.
+My recent research endeavors are focused on **analyzing the limitations and exploring the zero-shot applications of LLMs / LMMs**. I am driven by the conviction that the advanced capabilities of large pre-trained models have significantly alleviated the traditional burden of data labeling. Before this, my efforts were dedicated to developing cost-effective and trustworthy visual autonomous systems in our changing world.  Feel welcome to check out my [selected publications](https://tsunghan-wu.github.io/publications/) and [CV](https://tsunghan-wu.github.io/files/cv.pdf) for more information.
 
 Email: tsunghan_wu [at] berkeley [dot] edu
 

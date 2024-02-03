@@ -8,5 +8,5 @@ paperurl: 'https://arxiv.org/abs/2107.11769'
 github: 'https://github.com/tsunghan-wu/ReDAL'
 youtube: 'https://www.youtube.com/watch?v=XJeb9kMxs5E'
 citation: '<b>Tsung-Han Wu</b>, Yueh-Cheng Liu, Yu-Kai Huang, Hsin-Ying Lee, Hung-Ting Su, Ping-Chia Huang, and Winston H. Hsu.'
-conference: '<i style="color:red">ICCV 2021</i>'
+conference: '<i style="color:black">ICCV 2021</i>'
 ---
