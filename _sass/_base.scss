@@ -313,3 +313,33 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/*
+   Custom
+   ========================================================================== */
+
+
+
+$venue-highlight-color: #007BFF; // A more appealing blue
+$token-background-color: #FFC107; // A vibrant yellow for contrast
+$token-text-color: #FFFFFF; // White for better readability
+$border-radius: 4px; // Rounded corners for a modern look
+$shadow: 0 2px 4px rgba(0, 0, 0, 0.1); // Subtle shadow for depth
+
+
+.new-paper {
+  background-color: $token-background-color;
+  color: $token-text-color;
+  padding: 4px 4px; // Slightly larger padding for the token
+  border-radius: $border-radius;
+  font-weight: bold;
+  margin-left: 10px;
+  box-shadow: $shadow;
+  text-transform: uppercase; // Makes the token text uppercase for emphasis
+  font-size: 0.75rem; // Smaller font size for the token to not overpower the venue name
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  line-height: 1; // Ensure line height is consistent
+}
+

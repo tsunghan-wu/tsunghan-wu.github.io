@@ -1,0 +1,54 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <h3 class="archive__item-title" itemprop="headline" style="font-weight: 500;">
+        {{ post.title }}
+        {% if post.highlight %}
+          <span class="new-paper">{{ post.highlight }}</span>
+        {% endif %}
+    </h3>
+
+    
+    <div class="archive__item-excerpt" itemprop="description">
+    {% if post.authors %}
+      {% assign author_list = "" %}
+      {% for author in post.authors %}
+        {% if author contains "@" %}
+          {% assign name = author | split: "@" %}  
+          {% capture name %}<a href="{{ name[1] }}" target="_blank" rel="noopener noreferrer">{{ name[0] }}</a>{% endcapture %}
+        {% else %}
+          {% assign name = author %}
+        {% endif %}
+        {% if author != post.authors.last %}
+          {% assign name = name | append: ", " %}
+        {% endif %}
+        {% assign author_list = author_list | append: name %}
+      {% endfor %}
+      {{ author_list }}<br>
+    {% endif %}
+
+    {% if post.venue %}
+      {{ post.venue }}<br>
+    {% endif %}
+    {% if post.arxiv %}
+    <i class="ai ai-arxiv"></i> <a href="{{ post.arxiv }}" target="_blank" rel="noopener noreferrer">arxiv</a>&nbsp;&nbsp;
+    {% endif %}
+    {% if post.paper %}
+    {% assign file = site.url | append: "/files/" | append: post.paper %}
+    <i class="fas fa-file-alt"></i> <a href="{{ file }}" target="_blank" rel="noopener noreferrer">paper</a>&nbsp;&nbsp;
+    {% endif %}
+    {% if post.code %}
+    <i class="fab fa-github"></i> <a href="{{ post.code }}" target="_blank" rel="noopener noreferrer">code</a>&nbsp;&nbsp;
+    {% endif %}
+    {% if post.video %}
+    <i class="fab fa-youtube"></i> <a href="{{ post.video }}" target="_blank" rel="noopener noreferrer">video</a>&nbsp;&nbsp;
+    {% endif %}
+    {% if post.page %}
+    <i class="fas fa-poll-h"></i> <a href="{{ post.page }}" target="_blank" rel="noopener noreferrer">page</a>&nbsp;&nbsp;
+    {% endif %}
+    </div>
+
+  </article>
+</div>
