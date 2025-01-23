@@ -1,9 +1,9 @@
 ---
-title: "Visual Haystacks: Answering Harder Questions About Sets of Images"
+title: "Visual Haystacks: A Vision-Centric Needle-In-A-Haystack Benchmark"
 collection: publications
-permalink: /publication/2023-sld
-date: 2024-07-21
-venue: arXiv
+permalink: /publication/2024-visual-haystacks
+date: 2024-09-30
+venue: ICLR 2025
 highlight: New!
 authors: [
 	<strong>Tsung-Han Wu</strong>,

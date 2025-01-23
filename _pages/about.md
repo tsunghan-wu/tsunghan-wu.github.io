@@ -18,4 +18,4 @@ Email: tsunghan_wu [at] berkeley [dot] edu
 
 ## Academic Service
 
-Conference Reviewer: CVPR'22-24, ECCV'22, ICCV'23, BMVC'22, ICMR'21, TMM
+Conference Reviewer: CVPR'22-25, ECCV'22&24, ICCV'23, BMVC'22, ICMR'21, TMM
