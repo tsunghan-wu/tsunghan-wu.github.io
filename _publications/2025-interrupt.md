@@ -1,5 +1,5 @@
 ---
-title: "Are Large Reasoning Models Interruptible?
+title: "Are Large Reasoning Models Interruptible?"
 collection: publications
 permalink: /publication/2025-interrupt
 date: 2025-10-13

@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2024-visual-haystacks
 date: 2024-09-30
 venue: ICLR 2025
-highlight: New!
 authors: [
 	<strong>Tsung-Han Wu</strong>,
 	Giscard Biamby,
