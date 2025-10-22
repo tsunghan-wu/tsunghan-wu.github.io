@@ -2,7 +2,7 @@
 title: "Search Arena: Analyzing Search-Augmented LLMs"
 collection: publications
 permalink: /publication/2025-search-arena
-date: 2024-06-05
+date: 2025-06-05
 venue: preprint
 authors: [
 	Mihran Miroyan*,

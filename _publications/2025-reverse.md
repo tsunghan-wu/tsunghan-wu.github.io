@@ -2,7 +2,7 @@
 title: "Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling"
 collection: publications
 permalink: /publication/2025-reverse
-date: 2025-04-17
+date: 2025-07-17
 venue: NeurIPS 2025
 highlight: New!
 authors: [
