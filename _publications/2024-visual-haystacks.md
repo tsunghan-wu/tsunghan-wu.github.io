@@ -2,7 +2,7 @@
 title: "Visual Haystacks: A Vision-Centric Needle-In-A-Haystack Benchmark"
 collection: publications
 permalink: /publication/2024-visual-haystacks
-date: 2024-09-30
+date: 2025-09-30
 venue: ICLR 2025
 authors: [
 	<strong>Tsung-Han Wu</strong>,

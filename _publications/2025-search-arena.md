@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2025-search-arena
 date: 2024-06-05
 venue: preprint
-highlight: New!
 authors: [
 	Mihran Miroyan*,
 	<strong>Tsung-Han Wu*</strong>,
