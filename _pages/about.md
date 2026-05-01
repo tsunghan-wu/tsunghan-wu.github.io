@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tsung-Han (Patrick) Wu - <span class='chinese-name'>吳宗翰</span>"
+title: "Tsung-Han (Patrick) Wu - <span class='name-container'><span class='chinese-name'><span>吳</span><span>宗</span><span>翰</span></span><span class='taiwanese-name'><span>Ngôo</span><span>Tsong</span><span>hān</span></span></span>"
 excerpt: "Tsung-Han (Patrick) Wu - 吳宗翰"
 author_profile: true
 redirect_from: 

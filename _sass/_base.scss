@@ -1,8 +1,52 @@
+.name-container {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+  cursor: pointer;
+  position: relative;
+  margin-left: 0.3em;
+}
+
 .chinese-name {
   font-family: "PingFang TC", "Heiti TC", "STHeiti", "Noto Sans TC", sans-serif;
-  font-weight: 300;
-  margin-left: 0.2em;
-  font-variant: normal;
+  font-weight: 700;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  transition: all 0.3s ease;
+  width: 100%;
+  min-width: 3.5em;
+}
+
+.taiwanese-name {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  font-size: 0.45em;
+  font-weight: 400;
+  color: $gray;
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  line-height: 1;
+  font-style: italic;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.name-container:hover .taiwanese-name,
+.name-container:active .taiwanese-name {
+  opacity: 1;
+  height: 1.2em;
+  margin-top: 2px;
+}
+
+.taiwanese-grid {
+  display: inline-grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  width: 100%;
 }
 
 /* ==========================================================================
