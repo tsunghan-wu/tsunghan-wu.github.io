@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Tsung-Han (Patrick) Wu - <span class='name-container'><span class='chinese-name'><span>吳</span><span>宗</span><span>翰</span></span><span class='taiwanese-name'><span>Ngôo</span><span>Tsong</span><span>hān</span></span></span>"
-excerpt: "Tsung-Han (Patrick) Wu - 吳宗翰"
+title: "Tsung-Han (Patrick) Wu"
+excerpt: "Tsung-Han (Patrick) Wu"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+<h1 class="page__title">Tsung-Han (Patrick) Wu</h1>
 ## About Me
 
 I am Tsung-Han (Patrick) Wu, a PhD student (Aug. 2023 - ) at UC Berkeley advised by [Prof. Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Prof. Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) at BAIR/Sky Computing Lab. Previously, I worked as a reserach scientist intern at [Meta AI](https://ai.meta.com/research/) and was a core member of the [Search Arena](https://news.lmarena.ai/search-arena) project at [Arena](https://arena.ai/about). I earned by MS and BS degree in CS from National Taiwan University (NTU), where I collaborated with Prof. [Shang-Tse Chen](https://www.csie.ntu.edu.tw/~stchen/) and Prof. [Winston H. Hsu](https://winstonhsu.info/). 
