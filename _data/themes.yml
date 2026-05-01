@@ -1,0 +1,12 @@
+human-ai-interaction:
+  label: Human-AI Interaction
+  blurb: Adaptive dialog, intent understanding, and resilient user experiences.
+self-correcting-models:
+  label: Self-Correcting Models
+  blurb: Techniques that help models diagnose and repair their own mistakes.
+evaluation-benchmarking:
+  label: Evaluation & Benchmarks
+  blurb: Open tests and leaderboards that reflect real-world deployment.
+vision-for-autonomy:
+  label: Vision for Autonomy
+  blurb: Perception systems that remain robust and efficient in dynamic settings.

@@ -122,7 +122,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - resume
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
