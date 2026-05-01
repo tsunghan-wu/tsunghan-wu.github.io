@@ -1,9 +1,11 @@
 ---
+selected: true
+topic: "Human-Centered AI"
 title: "Search Arena: Analyzing Search-Augmented LLMs"
 collection: publications
 permalink: /publication/2025-search-arena
 date: 2025-06-05
-venue: preprint
+venue: ICLR 2026
 authors: [
 	Mihran Miroyan*,
 	<strong>Tsung-Han Wu*</strong>,
@@ -21,3 +23,4 @@ arxiv: https://arxiv.org/abs/2506.05334
 page: https://huggingface.co/datasets/lmarena-ai/search-arena-24k
 code: https://github.com/lmarena/search-arena
 ---
+

@@ -1,4 +1,6 @@
 ---
+selected: true
+topic: "Visual Reasoning"
 title: "Visual Haystacks: A Vision-Centric Needle-In-A-Haystack Benchmark"
 collection: publications
 permalink: /publication/2024-visual-haystacks
@@ -17,3 +19,4 @@ arxiv: https://arxiv.org/abs/2407.13766
 page: https://visual-haystacks.github.io/
 code: https://github.com/visual-haystacks/vhs_benchmark
 ---
+

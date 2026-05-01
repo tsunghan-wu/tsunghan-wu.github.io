@@ -1,4 +1,6 @@
 ---
+selected: true
+topic: "Visual Reasoning"
 title: "See, Say, and Segment: Teaching LMMs to Overcome False Premises"
 collection: publications
 permalink: /publication/2023-sesame
@@ -12,3 +14,4 @@ authors: [
 ]
 page: https://see-say-segment.github.io
 ---
+

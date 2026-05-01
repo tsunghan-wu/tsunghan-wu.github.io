@@ -1,4 +1,6 @@
 ---
+selected: true
+topic: "Visual Reasoning"
 title: "Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling"
 collection: publications
 permalink: /publication/2025-reverse
@@ -17,3 +19,4 @@ arxiv: https://arxiv.org/abs/2504.13169
 page: https://reverse-vlm.github.io/
 code: https://github.com/tsunghan-wu/reverse_vlm
 ---
+

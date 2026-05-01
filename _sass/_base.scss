@@ -1,5 +1,12 @@
+.chinese-name {
+  font-family: "PingFang TC", "Heiti TC", "STHeiti", "Noto Sans TC", sans-serif;
+  font-weight: 300;
+  margin-left: 0.2em;
+  font-variant: normal;
+}
+
 /* ==========================================================================
-   BASE ELEMENTS
+   RESET
    ========================================================================== */
 html {
   /* sticky footer fix */

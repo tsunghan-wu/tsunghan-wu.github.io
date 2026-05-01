@@ -31,12 +31,72 @@
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  color: mix(#fff, $gray, 25%);
+  color: $primary-color;
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
   }
+}
+
+.topic-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  border-bottom: 1px solid $border-color;
+  margin-top: 2em;
+
+  .archive__subtitle {
+    margin: 0;
+    border-bottom: none;
+    padding-bottom: 0.5em;
+  }
+}
+
+.topic-intro {
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+  font-size: 0.9em;
+  color: $gray;
+}
+
+.see-more-checkbox {
+  display: none;
+}
+
+.see-more-label {
+  font-size: 0.8em;
+  color: $link-color;
+  cursor: pointer;
+  user-select: none;
+  font-weight: normal;
+
+  .toggle-text:after {
+    content: "[> see more papers]";
+  }
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.see-more-checkbox:checked ~ .topic-header .see-more-label .toggle-text:after {
+  content: "[v see fewer papers]";
+}
+
+.older-papers-list {
+  display: none;
+  width: 100%;
+  background: #fff;
+  padding: 0.5em 0;
+  border-top: 1px dashed $border-color;
+  border-bottom: 1px dashed $border-color;
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+}
+
+.see-more-checkbox:checked ~ .older-papers-list {
+  display: block;
 }
 
 .archive__item-title {
@@ -71,6 +131,48 @@
   overflow: hidden;
   img {
     width: 100%;
+  }
+}
+
+/* Publication Cards */
+.publication-card {
+  background-color: #fff;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-4px);
+    border-color: mix($border-color, $primary-color, 50%);
+  }
+
+  .archive__item-title {
+    margin-top: 0 !important;
+    color: $primary-color;
+    
+    a {
+      text-decoration: none;
+      &:hover {
+        color: $link-color;
+      }
+    }
+  }
+
+  .new-paper {
+    background-color: #e74c3c;
+    color: #fff;
+    font-size: 0.7em;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-left: 8px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
   }
 }
 
